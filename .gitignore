@@ -1,0 +1,45 @@
+# Compiled object files
+*.o
+*.obj
+
+# Libraries
+*.lib
+*.a
+*.so
+
+# Executables
+*.exe
+*.out
+
+# Debug files
+*.pdb
+*.ilk
+
+# Visual Studio / IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# Build directories
+build/
+bin/
+obj/
+dist/
+cmake-build-*
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Temporary files
+*.tmp
+*.log
+*~
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
